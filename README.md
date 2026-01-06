@@ -27,43 +27,41 @@ Standardized category and genre names ,
 Analysis Approach -
 Instead of building a dashboard, Power BI was used to:
 Answer Basic-level questions
-(ratings, categories, free vs paid apps, content ratings)
+(ratings, categories, free vs paid apps, content ratings) ,
 Answer Medium-level questions
-(correlation analysis, category performance, pricing impact)
+(correlation analysis, category performance, pricing impact) ,
 Answer Advanced-level questions
-(rating vs installs trend, update patterns, genre performance)
+(rating vs installs trend, update patterns, genre performance) ,
 
 Power BI visuals such as tables, bar charts, column charts, scatter plots, and filters were used to support each answer.
 
 Key Insights -
-Free apps receive significantly higher installs and reviews
-High installs do not always guarantee high ratings
-Certain categories consistently show better user satisfaction
-App size has limited impact on installs
-Most apps target the “Everyone” content rating
+Free apps receive significantly higher installs and reviews ,
+High installs do not always guarantee high ratings ,
+Certain categories consistently show better user satisfaction ,
+App size has limited impact on installs ,
+Most apps target the “Everyone” content rating ,
 
 Business Recommendations -
-Focus on categories with high ratings and installs
-Optimize app size for better adoption
-Use free apps as an entry strategy for user acquisition
-Maintain regular updates to sustain engagement
+Focus on categories with high ratings and installs ,
+Optimize app size for better adoption ,
+Use free apps as an entry strategy for user acquisition ,
+Maintain regular updates to sustain engagement 
 
 Tools Used -
-Power BI
-Data Transformation
-Basic DAX Measures
-Business Analysis & Visualization
+Power BI ,
+Data Transformation ,
+Basic DAX Measures ,
+Business Analysis & Visualization ,
 
 Learning Outcome -
 This project demonstrates:
-Strong analytical thinking
-Ability to solve business case questions using Power BI
-Practical understanding of data cleaning, analysis, and interpretation
+Strong analytical thinking ,
+Ability to solve business case questions using Power BI ,
+Practical understanding of data cleaning, analysis, and interpretation ,
 Readiness to work on dashboard projects in the next stage
 
 Author -
 Ayana Khan
 
-Converted Last Updated into Date format
 
-Created calculated columns and basic measures
